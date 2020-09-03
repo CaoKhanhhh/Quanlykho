@@ -1,0 +1,53 @@
+.btn_addquankho{
+    background-color: red;
+    color: white;
+    float: right;
+    border: 1px solid;
+    width:12%;
+    height:65%;
+    position: relative;
+    border-radius: 25px;
+    margin: 1% 2% 1% 0;
+}
+.footer_table{
+    background-color: transparent;
+    position: relative;
+    border-bottom-left-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+    height: 80px;
+}
+.icon-delete{
+    margin-left: 5%;
+    color: black;
+}
+.icon-edit{
+    color:black;
+}
+.btn_excel{
+    background-color: green;
+    color: white;
+    float: right;
+    border: 1px solid;
+    width:12%;
+    height:65%;
+    position: relative;
+    border-radius: 25px;
+    margin: 1% 2% 1% 0;
+}
+.btn_resetpass{
+    background-color: orange;
+    color: white;
+    float: right;
+    border: 1px solid;
+    width:12%;
+    height:65%;
+    position: relative;
+    border-radius: 25px;
+    margin: 1% 2% 1% 0;
+}
+.callback_message{
+    color:#BC3425;
+    margin-left: 24%;
+    font-size: 15px;
+    display: inline;
+}

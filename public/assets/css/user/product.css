@@ -1,0 +1,12 @@
+.image_product{
+    display:block;margin: auto;width: 80px;height: 80px;
+    margin-top: 2%;
+}
+.image_product_add{
+    display:block;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    margin-top: 2%;
+    display: none;
+}

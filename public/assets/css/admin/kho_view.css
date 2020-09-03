@@ -1,0 +1,43 @@
+.stock_option{
+    width:12%;
+    height:10%;
+}
+.stock_select{
+    font-weight: 400;
+    padding: 2% 0 0 2.5%;
+    font-size: 102%;
+}
+.btn-add_kho{
+    float:right;
+    width:11%;
+    margin: -2.8% 2%;
+    line-height: 1.5;
+}
+.dropdown-content{
+    border: 1px solid;
+    border-radius: 2px;
+    float: right;
+    margin: 1% 2% 0 72%;
+    position: absolute !important;
+    background-color: white;
+    display: none;
+    z-index: 999;
+}
+.cancel{
+    float:right;
+    margin-right:6%;
+}
+.stock{
+    display:inline;
+}
+.user{
+    display:inline;
+    margin:0 0 0 6%;
+}
+.user_assign{
+    display: inline;
+}
+.custom-paginate_admin{
+    float: right;
+    margin-top: 2%;
+}

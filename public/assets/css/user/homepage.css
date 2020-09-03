@@ -1,0 +1,44 @@
+.stock{
+    display: inline;
+}
+.manager{
+    display: inline;
+    margin-left: 2%;
+
+}
+.stock_inf{
+    font-size: 18px;
+}
+.btn_addProduct{
+    float: right;
+    font-size: 16px;
+    display:inline;
+    background-color: blue;
+    border: 1px;
+    color: white;
+}
+.excel{
+    float: right;
+    margin-right: 2%;
+    font-size: 16px;
+    display:inline;
+    background-color: green;
+    border: 1px;
+    color: white;
+}
+.product_delete{
+    color:red;
+}
+.product_delete:hover{
+    color: red;
+}
+.product_edit{
+    color: blue;
+}
+.product_edit:hover{
+    color: blue;
+}
+.custom_paginate{
+    float: right;
+    margin-top: 2%;
+}
